@@ -1,7 +1,5 @@
 # Weather Prediction App
 
-## Overview
-
 A real-time weather prediction application built using Streamlit and Machine Learning. This app fetches real-time weather data, predicts the likelihood of rain, and forecasts future weather conditions based on historical data.
 
 ## Prerequisites
