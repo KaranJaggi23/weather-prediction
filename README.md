@@ -1,4 +1,4 @@
-Weather Prediction App
+*Weather Prediction App*
 
 🌦️ Overview
 
