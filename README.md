@@ -1,23 +1,20 @@
-*Weather Prediction App*
+# Weather Prediction App
 
-🌦️ Overview
+## Overview
 
 This is a Machine Learning-based Weather Prediction App built using Streamlit. It fetches real-time weather data, predicts whether it will rain, and forecasts future temperature, humidity, and pressure trends.
 
-📌 Features
+## Features
 
-Real-time Weather Data: Fetches current weather conditions from OpenWeather API.
+ - Real-time Weather Data: Fetches current weather conditions from OpenWeather API.
+- Rain Prediction: Uses a Random Forest Classifier to predict if it will rain tomorrow.
+- Temperature, Humidity & Pressure Forecast: Uses a Random Forest Regressor for short-term future predictions.
+- Beautiful UI: Interactive, gradient-based UI with weather icons.
 
-Rain Prediction: Uses a Random Forest Classifier to predict if it will rain tomorrow.
-
-Temperature, Humidity & Pressure Forecast: Uses a Random Forest Regressor for short-term future predictions.
-
-Beautiful UI: Interactive, gradient-based UI with weather icons.
-
-🛠️ Installation & Setup
+## Installation & Setup
 
 1️⃣ Clone the Repository
-
+`git clone `
 2️⃣ Install Dependencies
 
 Ensure you have Python installed, then install the required dependencies:
